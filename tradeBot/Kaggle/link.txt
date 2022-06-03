@@ -1,5 +1,0 @@
-https://www.kaggle.com/aaron7sun/stocknews
-https://web.stanford.edu/~jurafsky/slp3/5.pdf#:~:text=Logistic%20regression%20is%20commonly%20applied%20to%20all%20sorts,is%20likely%20part%20of%20a%20shortening%20of%20thewordstreet.
-https://monkeylearn.com/natural-language-processing/
-https://stats.stackexchange.com/questions/331219/characterizing-fitting-word-count-data-into-zipf-power-law-lognormal
-https://www.kaggle.com/itsmanas/stock-sentiment-analysis-85-9-accuracy
